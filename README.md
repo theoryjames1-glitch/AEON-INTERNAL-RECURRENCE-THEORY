@@ -115,3 +115,13 @@ $$
 * **Optimizer** adapts hyperparameters from both loss trends and internal recurrence.
 * **Resonance** ensures stable long-term error memory.
 * Result: a **continually adaptive Transformer**, self-tuned online.
+
+
+
+[![Video Title](https://img.youtube.com/vi/Y7JG63IuaWs/0.jpg)](https://www.youtube.com/watch?v=Y7JG63IuaWs)
+
+OVERTHINKING
+
+OVERANALYZING
+
+SEPERATING THE BODY FROM THE MIND
